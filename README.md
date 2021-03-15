@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ThunderkeX&color=ff4968&style=flat-square)
-### Hello There ! <img src="https://media.giphy.com/media/wIUQQ07BHzDry/giphy.gif" width="40px">
+### Hello There ! <img src="https://media.tenor.com/images/c1d7f88abd028148ef01a4cf0be18799/tenor.gif" width="40px">
 - 🔭 I’m currently working on my own things
 - 🌱 I’m currently learning - Everything about Tech
 <!-- ❔❔❔❔ means username in below README.md -->
